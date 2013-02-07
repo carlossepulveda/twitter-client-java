@@ -9,6 +9,10 @@ Esta conformado por 2 paquetes:
   -testtwitter => Contiene la clase de prueba para publicar un twett
   -properties.testtwitter => Contniene el properpities con los datos de autenticacion
   
+  
+Adicionalmente se encuentra la carpeta lib, que contiene el .jar utilizado de twitter4j
+
+  
 Para ejecutarlo es necesario: 
 
   1) Obtener consumerKey, consumerSecret, accessToken, y accessTokenSecret registrando la app en https://dev.twitter.com,
