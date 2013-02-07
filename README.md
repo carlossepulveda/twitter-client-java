@@ -6,20 +6,23 @@ Cliente twitter en java, haciendo uso de la libreria twitter4j ( http://twitter4
 El proyecto consiste en un ejemplo sencillo de como publicar un twitt. 
 
 Esta conformado por 2 paquetes:
-  -testtwitter => Contiene la clase de prueba para publicar un twett
-  -properties.testtwitter => Contniene el properpities con los datos de autenticacion
-  
+<ul>
+  <li>-testtwitter => Contiene la clase de prueba para publicar un twett</li>
+  <li>-properties.testtwitter => Contniene el properpities con los datos de autenticacion</li>
+</ul>
   
 Adicionalmente se encuentra la carpeta lib, que contiene el .jar utilizado de twitter4j
 
   
 Para ejecutarlo es necesario: 
-
-  1) Obtener consumerKey, consumerSecret, accessToken, y accessTokenSecret registrando la app en https://dev.twitter.com,
-  2) Reemplazarlos en el archivo .properties
-  3) Correr la clase Main.java.
+<ul>
+  <li>Obtener consumerKey, consumerSecret, accessToken, y accessTokenSecret registrando la app en https://dev.twitter.com</li>
+  <li>Reemplazarlos en el archivo .properties</li>
+  <li>Correr la clase Main.java.</li>
+</ul>
   
   
 Recursos : 
-  1) https://dev.twitter.com
-  2) http://twitter4j.org/
+<ul>
+  <li>https://dev.twitter.com</li>
+  <li>http://twitter4j.org/</li>
